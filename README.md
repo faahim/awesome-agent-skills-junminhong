@@ -85,6 +85,7 @@ This repository is not a package registry, a host for community skill files, a s
 - [SandBase](https://github.com/sandbaseai/cli) — Connects AI agents to unified model and tool APIs through a local CLI-managed MCP bridge and Agent Skill. `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — Inspects third-party Agent Skills before installation and surfaces static risk findings, token estimates, and quality scores for agent-assisted review. `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — Provides supervised X research, publishing, media, follower export, giveaway, and monitoring workflows. `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [Postbag](https://github.com/faahim/postbag) — Agent-native form backend that stores submissions and routes them to email, Telegram, and webhooks via CLI, MCP, and a SKILL.md. `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 
 ## Using a Listed Project
 
