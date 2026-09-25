@@ -85,6 +85,7 @@
 - [SandBase](https://github.com/sandbaseai/cli) — 透過本機 CLI 管理的 MCP 橋接器與 Agent Skill，讓 AI Agent 連接統一的模型與工具 API。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 - [SkillPreflight](https://github.com/agent-contracts/skill-preflight) — 在安裝前檢查第三方 Agent Skills，提供靜態風險發現、Token 估計與品質評分，供 Agent 輔助審閱。 `Type: CLI + Skill` · `Platforms: Cross-platform`
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) — 提供受控的 X 研究、發布、媒體、追蹤者匯出、抽獎與監測工作流程。 `Type: Plugin + Skill` · `Platforms: OpenClaw, Agent Skills-compatible agents`
+- [Postbag](https://github.com/faahim/postbag) — Agent 原生表單後端：持久化儲存提交，並透過 CLI、MCP 與 SKILL.md 路由到 email、Telegram 與 webhooks。 `Type: CLI + MCP + Skill` · `Platforms: Cross-platform`
 
 ## 使用收錄專案
 
